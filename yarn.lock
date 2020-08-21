@@ -1104,7 +1104,7 @@
     "@vuepress/plugin-nprogress" "1.5.2"
     "@vuepress/plugin-search" "1.5.2"
     docsearch.js "^2.5.2"
-    lodash "^4.17.15"
+    lodash "^4.17.20"
     stylus "^0.54.5"
     stylus-loader "^3.0.2"
     vuepress-plugin-container "^2.0.2"
@@ -1512,7 +1512,7 @@ async@^2.6.2:
   resolved "https://registry.yarnpkg.com/async/-/async-2.6.3.tgz#d72625e2344a3656e3a3ad4fa749fa83299d82ff"
   integrity sha512-zflvls11DCy+dQWzTW2dzuilv8Z5X/pjfmZOWba6TNIVDm+2UDaJmXSOXlasHKfNBs8oo3M0aT50fDEWfKZjXg==
   dependencies:
-    lodash "^4.17.14"
+    lodash "^4.17.20"
 
 asynckit@^0.4.0:
   version "0.4.0"
@@ -3866,7 +3866,7 @@ http-proxy-middleware@0.19.1:
   dependencies:
     http-proxy "^1.17.0"
     is-glob "^4.0.0"
-    lodash "^4.17.11"
+    lodash "^4.17.20"
     micromatch "^3.1.10"
 
 http-proxy@^1.17.0:
@@ -4508,7 +4508,7 @@ last-call-webpack-plugin@^3.0.0:
   resolved "https://registry.yarnpkg.com/last-call-webpack-plugin/-/last-call-webpack-plugin-3.0.0.tgz#9742df0e10e3cf46e5c0381c2de90d3a7a2d7555"
   integrity sha512-7KI2l2GIZa9p2spzPIVZBYyNKkN+e/SQPpnjlTiPhdbDW3F86tdKKELxKpzJ5sgU19wQWsACULZmpTPYHeWO5w==
   dependencies:
-    lodash "^4.17.5"
+    lodash "^4.17.20"
     webpack-sources "^1.1.0"
 
 latest-version@^5.0.0:
@@ -4628,8 +4628,8 @@ lodash.uniq@^4.5.0:
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
 lodash@^4.17.11, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.3, lodash@^4.17.5:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
+  version "4.17.20"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.20.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
   integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
 
 loglevel@^1.6.8:
